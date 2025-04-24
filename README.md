@@ -1,5 +1,5 @@
 # DialogBlocks_5Win
-Пример многооконной программы на C++ с использованием wxWidgets в DialogBlocks
+Пример многооконной программы и компонент выбора на C++ с использованием wxWidgets в DialogBlocks
 
 ![srcreenshot](screenshot1.png)
 
